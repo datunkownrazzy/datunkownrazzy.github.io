@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacypolicy.md
+
 Privacy Policy for [End of times]
 
 This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by [Developer Name]. By using [Bot Name], you agree to the terms of this Privacy Policy.
