@@ -1,7 +1,3 @@
-layout: page
-title: "Privacy Policy"
-permalink: /
-
 Privacy Policy for [End of times]
 
 This Privacy Policy governs the collection, use, and sharing of personal information by [Bot Name], a Discord bot developed by [Snow & Bex]. By using [End of times], you agree to the terms of this Privacy Policy.
